@@ -186,75 +186,52 @@ function setup() {
 
     ground2 = createSprite(windowWidth/2,windowHeight/2+270,15000000,130)
     ground2.shapeColor = "white"
-    ground2.visible = false
 
     ground3 = createSprite(1740,windowHeight/2+150,620,100);
     ground3.shapeColor = "white"
-    ground3.visible = false
 
     ground4 = createSprite(4520,windowHeight/2+160,100,100);
     ground4.shapeColor = "white"
-    ground4.visible = false
 
     ground5 = createSprite(4700,windowHeight/2+100,300,100);
     ground5.shapeColor = "white"
-    ground5.visible = false
 
     ground6 = createSprite(6120,windowHeight/2+130,100,100);
     ground6.shapeColor = "white"
-    ground6.visible = false
 
     ground7 = createSprite(6320,windowHeight/2+200,500,400);
     ground7.shapeColor = "white"
-    ground7.visible = false
 
     ground8 = createSprite(8680,windowHeight/2+180,80,150);
     ground8.shapeColor = "white"
-    ground8.visible = false
 
     ground9 = createSprite(8800,windowHeight/2+280,200,500);
     ground9.shapeColor = "white"
-    ground9.visible = false
 
     ground10 = createSprite(11700,windowHeight/2+120,3300,500);
     ground10.shapeColor = "white"
-    ground10.visible = false
 
     ground11 = createSprite(1100,650,11000,200)
-    ground11.visible = false
 
     ground12 = createSprite(1200,550,300,200)
-    ground12.visible = false
 
     ground13 = createSprite(3520,550,300,200)
-    ground13.visible = false
 
     ground14 = createSprite(5230,550,400,200)
-    ground14.visible = false
 
     ground15 = createSprite(5240,450,150,150)
-    ground15.visible = false
-
-    ground16 = createSprite(6600,620,150,600)
-    ground16.visible = false
 
     ground17 = createSprite(7040,620,110,600)
-    ground17.visible = false
 
     ground18 = createSprite(7470,620,110,600)
-    ground18.visible = false
 
     ground19 = createSprite(7940,620,190,600)
-    ground19.visible = false
 
     ground20 = createSprite(13400,650,11000,200)
-    ground20.visible = false
 
     ground21 = createSprite(9100,550,300,200)
-    ground21.visible = false
 
     ground22 = createSprite(12100,550,300,200)
-    ground22.visible = false;
     
 
     //player
